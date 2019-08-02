@@ -64,7 +64,7 @@ disqusShortname = "yourdiscussshortname"
         # You can configure the theme parameter for each language.
         [languages.en.params]
             author = "Nana Kwame Owusu"
-            info = "SOFTWARE ENGINEER, VOCALIST, LOVER AND FIGHTER."
+            info = "SOFTWARE ENGINEER"
             description = "Nana's Personal Website"
             keywords = "blog,developer,personal"
 

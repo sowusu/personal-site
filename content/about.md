@@ -1,3 +1,3 @@
 # Nana Kwame Owusu
 
-Software Engineer, Financial Literacy Enthusiast, Musician, Lover and Fighter.
+I love avocados and foxes ...
