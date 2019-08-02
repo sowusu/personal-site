@@ -5,7 +5,7 @@ theme = "coder-portfolio"
 
 DefaultContentLanguage = "en"
 
-paginate = 20
+paginate = 10
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal"
     info = "SOFTWARE ENGINEER, VOCALIST, LOVER AND FIGHTER."
     avatarurl = "images/avatar.jpg"
-    footercontent = ""
+    #footercontent = ""
     #fixedbarContent = "Do you want to know me more private?→"
     #fixedbarContentAfter = "Thank You! Please share it if you like it→"
 
