@@ -14,14 +14,7 @@ cd public
 git add --all
 
 #Commit changes
-msg="rebuilding site $(date)"
-if  [-n "$*" ] 
-then 
-	msg="$*"
-
-fi
-
-git commit -m "$msg"
+git commit -m "Rebuilding site $(date)"
 
 #Push changes
 git push

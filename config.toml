@@ -12,7 +12,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsUseClasses = true
 
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Nana Kwame Owusu"
@@ -20,14 +20,14 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal"
     info = "SOFTWARE ENGINEER, VOCALIST, LOVER AND FIGHTER."
     avatarurl = "images/avatar.jpg"
-    #footercontent = ""
-    #fixedbarContent = "Do you want to know me more private?→"
-    #fixedbarContentAfter = "Thank You! Please share it if you like it→"
+    footercontent = true
+    fixedbarContent = false
+    fixedbarContentAfter = false
 
     hideCredits = false
     hideCopyright = false
 
-    snsShare = true
+    snsShare = false
 
     thumbnail = "images/tn.png"
 

@@ -9,4 +9,4 @@
 	url = https://github.com/naro143/hugo-coder-portfolio
 [submodule "public"]
 	path = public
-	url = git@github.com:sowusu/sowusu.github.io
+	url = https://github.com/sowusu/sowusu.github.io
