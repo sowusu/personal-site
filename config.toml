@@ -18,9 +18,8 @@ pygmentsUseClasses = true
     author = "Nana Kwame Owusu"
     description = "Nana's Personal Website"
     keywords = "blog,developer,personal"
-    info = " "
     avatarurl = "images/avatar.jpg"
-    footercontent = true
+    footercontent = "  "
     fixedbarContent = false
     fixedbarContentAfter = false
 
@@ -46,15 +45,17 @@ pygmentsUseClasses = true
     name = "LinkedIn"
     weight = 1
     url = "https://www.linkedin.com/in/nowusu"
+    color = "#0077B5"
 [[params.social]]
     name = "Github"
     weight = 2
     url = "https://github.com/sowusu/"
+    color = "#6e5494"
 [[params.social]]
     name = "Twitter"
     weight = 3
     url = "https://twitter.com/_sakyi_nie"
-
+    color = "#00acee"
 [languages]
     [languages.en]
         languagecode = "en"
@@ -64,7 +65,7 @@ pygmentsUseClasses = true
         # You can configure the theme parameter for each language.
         [languages.en.params]
             author = "Nana Kwame Owusu"
-            info = "I am Nana Kwame (Na'ame) Owusu and I fullstack developer using toolsets including, but not limited to, Java, Swift, Node/Express, Angular and React (soon). Happy to meet you. You can check out my blog here -->"
+            info = "I am Nana Kwame Owusu and I am a fullstack developer using toolsets including, but not limited to, <b>Java</b>, <b>Swift</b>, <b>Node/Express</b>, **Angular** and <b>React</b> (soon). Happy to meet you. You can check out my <a href='/posts/'>blog</a>"
             description = "Nana's Personal Website"
             keywords = "blog,developer,personal"
 
