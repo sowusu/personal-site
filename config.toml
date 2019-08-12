@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://sowusu.github.io"
 title = "Nana Kwame Owusu"
 
 theme = "coder-portfolio"
