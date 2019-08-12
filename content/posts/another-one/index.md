@@ -10,5 +10,7 @@ description = ""
 disable_comments = true
 +++
 
+<img src="eargasm.jpg "
+     alt="eargasm picture"
+     style="float: center" />
 
-Another one

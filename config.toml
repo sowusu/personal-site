@@ -42,20 +42,35 @@ pygmentsUseClasses = true
     langseparator = "|"
 
 [[params.social]]
-    name = "LinkedIn"
+    name = "Email"
     weight = 1
+    url = "mailto:nana@sakyiowusu.com"
+    color = "#ffd700"
+    faicon = "fa-envelope"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 2
     url = "https://www.linkedin.com/in/nowusu"
     color = "#0077B5"
+    faicon = "fa-linkedin"
 [[params.social]]
     name = "Github"
-    weight = 2
+    weight = 3
     url = "https://github.com/sowusu/"
     color = "#6e5494"
+    faicon = "fa-github"
 [[params.social]]
     name = "Twitter"
-    weight = 3
+    weight = 5
     url = "https://twitter.com/_sakyi_nie"
     color = "#00acee"
+    faicon = "fa-twitter"
+[[params.social]]
+    name = "Medium"
+    weight = 4
+    url = "https://medium.com/@s.owusu45"
+    color = "#347235"
+    faicon = "fa-medium"
 [languages]
     [languages.en]
         languagecode = "en"
@@ -79,9 +94,4 @@ pygmentsUseClasses = true
             [[languages.en.menu.main]]
                 name = "Blog"
                 weight = 2.0
-                url = "posts"
-
-            [[languages.en.menu.main]]
-                name = "Projects"
-                weight = 3
-                url = "projects"
+                url = "https://medium.com/@s.owusu45"
