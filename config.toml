@@ -60,12 +60,6 @@ pygmentsUseClasses = true
     color = "#6e5494"
     faicon = "fa-github"
 [[params.social]]
-    name = "Twitter"
-    weight = 5
-    url = "https://twitter.com/_sakyi_nie"
-    color = "#00acee"
-    faicon = "fa-twitter"
-[[params.social]]
     name = "Medium"
     weight = 4
     url = "https://medium.com/@s.owusu45"
@@ -80,7 +74,7 @@ pygmentsUseClasses = true
         # You can configure the theme parameter for each language.
         [languages.en.params]
             author = "Nana Kwame Owusu"
-            info = "I am Nana Kwame Owusu and I am a fullstack developer using toolsets including, but not limited to, <b>Java</b>, <b>Swift</b>, <b>Node/Express</b>, **Angular** and <b>React</b> (soon). Happy to meet you. You can check out my <a href='/posts/'>blog</a>"
+            info = "I am Nana Kwame Owusu and I am a fullstack developer using toolsets including, but not limited to, <b>Java</b>, <b>Swift</b>, <b>Node/Express</b> and Vue. Happy to meet you. You can check out my <a href='/posts/'>blog</a> and featured <a href='/projects/'>projects</a>." 
             description = "Nana's Personal Website"
             keywords = "blog,developer,personal"
 
@@ -95,3 +89,8 @@ pygmentsUseClasses = true
                 name = "Blog"
                 weight = 2.0
                 url = "https://medium.com/@s.owusu45"
+
+            [[languages.en.menu.main]]
+                name = "Projects"
+                weight = 2.0
+                url = "projects"
