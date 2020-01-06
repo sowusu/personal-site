@@ -74,7 +74,7 @@ pygmentsUseClasses = true
         # You can configure the theme parameter for each language.
         [languages.en.params]
             author = "Nana Kwame Owusu"
-            info = "I am Nana Kwame Owusu and I am a fullstack developer using toolsets including, but not limited to, <b>Java</b>, <b>Swift</b>, <b>Node/Express</b> and Vue. Happy to meet you. You can check out my <a href='/posts/'>blog</a> and featured <a href='/projects/'>projects</a>." 
+            info = "I am Nana Kwame Owusu and I am a fullstack developer using toolsets including, but not limited to, <b>Java</b>, <b>Swift</b>, <b>Node/Express</b> and <b>Vue</b>. Happy to meet you. You can check out my <a href='/posts/'>blog</a> and featured <a href='/projects/'>projects</a>." 
             description = "Nana's Personal Website"
             keywords = "blog,developer,personal"
 
